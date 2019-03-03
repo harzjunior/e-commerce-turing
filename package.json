@@ -1,0 +1,47 @@
+{
+	"name": "e-commerce-turing",
+	"version": "1.0.0",
+	"description": "react code challenge",
+	"main": "index.js",
+	"scripts": {
+		"format": "prettier --write \"src/**/*.{js,jsx,css,json}\"",
+		"format:check": "prettier --list-different \"src/**/*.{js,jsx,css,json}\"",
+		"lint": "eslint \"src/**/*.{js,jsx}\"",
+		"dev": "parcel src/index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/senducusin/e-commerce-turing.git"
+	},
+	"author": "Jansen Ducusin",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/senducusin/e-commerce-turing/issues"
+	},
+	"homepage": "https://github.com/senducusin/e-commerce-turing#readme",
+	"devDependencies": {
+		"babel-core": "^6.26.3",
+		"babel-eslint": "^10.0.1",
+		"babel-plugin-transform-class-properties": "^6.24.1",
+		"babel-preset-env": "^1.7.0",
+		"babel-preset-react": "^6.24.1",
+		"eslint": "^5.15.0",
+		"eslint-config-prettier": "^4.1.0",
+		"eslint-plugin-import": "^2.16.0",
+		"eslint-plugin-jsx-a11y": "^6.2.1",
+		"eslint-plugin-prettier": "^3.0.1",
+		"eslint-plugin-react": "^7.12.4",
+		"parcel-bundler": "^1.11.0",
+		"prettier": "^1.16.4"
+	},
+	"dependencies": {
+		"@emotion/core": "^10.0.7",
+		"@emotion/styled": "^10.0.7",
+		"@reach/router": "^1.2.1",
+		"emotion": "^10.0.7",
+		"react": "^16.8.3",
+		"react-dom": "^16.8.3",
+		"react-emotion": "^10.0.0",
+		"react-loadable": "^5.5.0"
+	}
+}
