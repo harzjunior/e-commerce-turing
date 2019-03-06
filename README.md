@@ -1,5 +1,5 @@
 # E-Commerce with ReactJS
-Initially this was a code-challenge front-end entry in Turing, now I plan to develop it as one of my portfolio in MERN stack.
+Initially this was an entry in a front-end code challenge, now I plan to develop it as one of my portfolio in MERN stack.
 
 ## To Run Application
 1. Clone repo "git clone https://github.com/senducusin/e-commerce-turing"
