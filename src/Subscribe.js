@@ -12,7 +12,7 @@ const SubscribeContainer = styled('div')`
 	text-align: center;
 
 	h1 {
-		color: ${colors.headingColor};
+		color: ${colors.pinkColor};
 		margin-bottom: 0.5em;
 		font-family: Montserrat;
 	}
