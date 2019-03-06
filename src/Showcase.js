@@ -113,7 +113,7 @@ class ShowCase extends React.Component {
 				<div className="showcase-container-right">
 					<Showcase3 />
 					<Showcase4>
-						<h1>Dress like Boss!</h1>
+						<h1>Dress like a Boss!</h1>
 						<h3>Register and shop now!</h3>
 						<RegisterButton>Register</RegisterButton>
 					</Showcase4>
