@@ -2,7 +2,7 @@
 Initially this was a code-challenge front-end entry in Turing, now I plan to develop it as one of my portfolio in MERN stack.
 
 ## To Run Application
-1. Clone repo "clone https://github.com/senducusin/e-commerce-turing"
+1. Clone repo "git clone https://github.com/senducusin/e-commerce-turing"
 2. cd to repo local directory cd go/to/path
 3. Install dependencies by "npm install"
 4. Run app "npm run dev"
