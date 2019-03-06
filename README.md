@@ -9,6 +9,6 @@ Initially this was a code-challenge front-end entry in Turing, now I plan to dev
 
 ## About the Project
 * API for the backend will be soon implemented using Nodejs + Express
-* Planned to use 'Reach router' instead of 'React router' for simplicity
-* Planned to implement Jest for testing
+* Planning to use 'Reach router' instead of 'React router' for simplicity
+* Planning to implement Jest for testing
 * Currently using 'Parcel Bundler' instead of 'Webpack'
