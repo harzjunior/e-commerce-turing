@@ -1,14 +1,27 @@
 import React from 'react';
-// import styled from '@emotion/styled';
+import styled from '@emotion/styled';
 
-// const HeroImg = require('../assets/hero-1@3x.png');
+import Featured from './Featured';
+import Showcase from './Showcase';
+import Subscribe from './Subscribe';
 
+const HeroImg = require('../assets/hero-1@3x.png');
+const Hero = styled('div')`
+	img {
+		width: 100%;
+		height: auto;
+	}
+`;
 class HomePage extends React.Component {
 	render() {
 		return (
 			<div>
-				<div />
-				this is main el
+				<Hero>
+					<img src={HeroImg} alt="Hero" />
+				</Hero>
+				<Featured />
+				<Showcase />
+				<Subscribe />
 			</div>
 		);
 	}

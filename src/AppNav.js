@@ -1,6 +1,8 @@
 import React from 'react';
 import styled from '@emotion/styled';
 
+import colors from './color-theme';
+
 const SearchIco = require('../assets/magnifying-glass.png');
 const CartIco = require('../assets/shopping-cart.png');
 
@@ -10,7 +12,7 @@ const Container = styled('header')`
 	height: 74px;
 	display: flex;
 	h1 {
-		color: #f62f5e;
+		color: ${colors.pinkColor};
 		font-family: 'Montserrat', sans-serif;
 		font-weight: bold;
 		margin: auto;
@@ -42,7 +44,6 @@ const Separator = styled('li')`
 
 const CartSearch = styled('span')`
 	padding: 25px 0px;
-	/* min-width: 250px; */
 	button {
 		background-color: transparent;
 		border: none;

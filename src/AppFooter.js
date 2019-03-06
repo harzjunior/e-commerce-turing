@@ -5,7 +5,7 @@ const Footer = styled('footer')`
 	display: grid;
 	font-family: OpenSans;
 	grid-template-columns: 20% [col-start] 20% [col-start] 20% [col-start] auto [col-start];
-	padding: 50px 20px 50px 20px;
+	padding: 3em 2em;
 	background-color: white;
 
 	span {
