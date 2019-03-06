@@ -8,6 +8,7 @@ Initially this was a code-challenge front-end entry in Turing, now I plan to dev
 4. Run app "npm run dev"
 
 ## About the Project
+* Currently using EmotionJS to implement 'styled components' - CSS scoping
 * API for the backend will be soon implemented using Nodejs + Express
 * Planning to use 'Reach router' instead of 'React router' for simplicity
 * Planning to implement Jest for testing
