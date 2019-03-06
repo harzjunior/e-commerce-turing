@@ -13,3 +13,6 @@ Initially this was a code-challenge front-end entry in Turing, now I plan to dev
 * Planning to use 'Reach router' instead of 'React router' for simplicity
 * Planning to implement Jest for testing
 * Currently using 'Parcel Bundler' instead of 'Webpack'
+
+## Dislaimer
+* Images that were used are not mine
