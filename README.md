@@ -15,4 +15,4 @@ Initially this was an entry in a front-end code challenge, now I plan to develop
 * Currently using 'Parcel Bundler' instead of 'Webpack'
 
 ## Dislaimer
-* Images that were used are not mine
+* I do not own any of the used/attached images
